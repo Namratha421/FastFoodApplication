@@ -1,0 +1,10 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-image: url('https://assets.architecturaldigest.in/photos/64f85037ec0bc118bdd98aba/16:9/w_1920,c_limit/Untitled%20design%20(14).png');
+  opacity: 0.5;
+  background-size: cover;
+  }
